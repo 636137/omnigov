@@ -1,0 +1,8 @@
+{
+  "name": "omnigov",
+  "version": "1.0.0",
+  "description": "Omnichannel government service experience",
+  "scripts": {
+    "dev": "cd backend && node server.js"
+  }
+}
