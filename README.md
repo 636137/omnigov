@@ -1,3 +1,9 @@
+## Proprietary Notice
+
+This code is proprietary to **Maximus**. **No public license is granted**. See [`NOTICE`](./NOTICE).
+
+---
+
 # OmniGov
 
 **Omnichannel Service Orchestration Platform for Government**

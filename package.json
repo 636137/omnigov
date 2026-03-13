@@ -4,5 +4,6 @@
   "description": "Omnichannel government service experience",
   "scripts": {
     "dev": "cd backend && node server.js"
-  }
+  },
+  "license": "UNLICENSED"
 }
